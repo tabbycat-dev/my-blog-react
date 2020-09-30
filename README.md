@@ -1,6 +1,7 @@
 # my-blog-react
-react full stack
+react full stack<br/>
 
+![](react_fullstack.gif)
 
 <h1>React: Creating and Hosting a Full-Stack Site</h1>
 <p>
